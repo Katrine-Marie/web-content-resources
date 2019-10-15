@@ -20,8 +20,11 @@ Anything from content planning and content strategy, to how you properly integra
 ## SEO
 
 ## Text Writing
+* [Information Literacy is a Design Problem](https://24ways.org/2016/information-literacy-is-a-design-problem/) by Lisa Maria Martin
+* [Cooking Up Effective Technical Writing](https://24ways.org/2015/cooking-up-effective-technical-writing/) by Sally Jenkinson
 
 ## Audio / video
+* [How to Use Audio on the Web](https://24ways.org/2018/how-to-use-audio-on-the-web/) by Ruth John
 
 ## Content-related Issues
 

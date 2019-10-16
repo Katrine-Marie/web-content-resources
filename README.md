@@ -29,3 +29,5 @@ Anything from content planning and content strategy, to how you properly integra
 ## Content-related Issues
 
 ## Content / Design Ethics
+* [Five Ways to Animate Responsibly](https://24ways.org/2014/five-ways-to-animate-responsibly/) by Rachel Nabors
+* [Is Your Website Accidentally Sexist](https://24ways.org/2017/is-your-website-accidentally-sexist/) by Suw Charman-Anderson

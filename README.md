@@ -12,6 +12,7 @@ Anything from content planning and content strategy, to how you properly integra
 * [Content Templates to the Rescue](https://alistapart.com/article/content-templates-to-the-rescue/) by Erin Kissane
 
 ## Content Strategy and Information Architecture
+* [Help! We (Think We) Need to Hire a Content Strategist](https://alistapart.com/article/help-we-think-we-need-to-hire-a-content-strategist/) by Jennifer Bassett
 * [A Contentmas Epiphany](https://24ways.org/2010/a-contentmas-epiphany/) by Relly Annett-Baker
 * [The Untapped Power of Vulnerability & Transparency in Content Strategy](https://alistapart.com/article/the-untapped-power-of-vulnerability-transparency-in-content-strategy/) by Travis McKnight
 
@@ -22,6 +23,9 @@ Anything from content planning and content strategy, to how you properly integra
 ## Text Writing
 * [Information Literacy is a Design Problem](https://24ways.org/2016/information-literacy-is-a-design-problem/) by Lisa Maria Martin
 * [Cooking Up Effective Technical Writing](https://24ways.org/2015/cooking-up-effective-technical-writing/) by Sally Jenkinson
+* [Writing for Designers](https://alistapart.com/article/writing-for-designers-excerpt/) by Scott Kubie
+* [Write What You Know (Now)](https://alistapart.com/column/write-what-you-know-now/) by Mark Llobrera
+* [Order Out of Chaos: Patterns of Organization for Writing on the Job](https://alistapart.com/article/order-out-of-chaos-patterns-of-organization-for-writing-on-the-job/) by Richard Rabil, Jr.
 
 ## Audio / video
 * [How to Use Audio on the Web](https://24ways.org/2018/how-to-use-audio-on-the-web/) by Ruth John

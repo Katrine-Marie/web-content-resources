@@ -16,18 +16,21 @@ Anything from content planning and content strategy, to how you properly integra
 * [A Contentmas Epiphany](https://24ways.org/2010/a-contentmas-epiphany/) by Relly Annett-Baker
 * [The Untapped Power of Vulnerability & Transparency in Content Strategy](https://alistapart.com/article/the-untapped-power-of-vulnerability-transparency-in-content-strategy/) by Travis McKnight
 
-## Navigation
+### Navigation
 
-## SEO
+## Content Creation
+* [How the Sausage Gets Made: The Hidden Work of Content](https://alistapart.com/article/the-hidden-work-of-content/] by Caroline Roberts
 
-## Text Writing
+### Text Writing
 * [Writing for Designers](https://alistapart.com/article/writing-for-designers-excerpt/) by Scott Kubie
 * [Write What You Know (Now)](https://alistapart.com/column/write-what-you-know-now/) by Mark Llobrera
 * [So You Want To Write An Article](https://alistapart.com/article/so-you-want-to-write-an-article/) by Brandon Gregory
 * [Cooking Up Effective Technical Writing](https://24ways.org/2015/cooking-up-effective-technical-writing/) by Sally Jenkinson
 * [Order Out of Chaos: Patterns of Organization for Writing on the Job](https://alistapart.com/article/order-out-of-chaos-patterns-of-organization-for-writing-on-the-job/) by Richard Rabil, Jr.
 
-## Audio / video
+### SEO
+
+### Audio / video
 * [How to Use Audio on the Web](https://24ways.org/2018/how-to-use-audio-on-the-web/) by Ruth John
 
 ## Content-related Issues

@@ -12,6 +12,7 @@ Anything from content planning and content strategy, to how you properly integra
 * [Content Templates to the Rescue](https://alistapart.com/article/content-templates-to-the-rescue/) by Erin Kissane
 
 ## Content Strategy and Information Architecture
+* [Aligning Content Work with Agile Processes](https://alistapart.com/article/aligning-content-work-with-agile-processes/) by Brendan Murray
 * [Help! We (Think We) Need to Hire a Content Strategist](https://alistapart.com/article/help-we-think-we-need-to-hire-a-content-strategist/) by Jennifer Bassett
 * [A Contentmas Epiphany](https://24ways.org/2010/a-contentmas-epiphany/) by Relly Annett-Baker
 * [The Untapped Power of Vulnerability & Transparency in Content Strategy](https://alistapart.com/article/the-untapped-power-of-vulnerability-transparency-in-content-strategy/) by Travis McKnight
@@ -19,7 +20,7 @@ Anything from content planning and content strategy, to how you properly integra
 ### Navigation
 
 ## Content Creation
-* [How the Sausage Gets Made: The Hidden Work of Content](https://alistapart.com/article/the-hidden-work-of-content/] by Caroline Roberts
+* [How the Sausage Gets Made: The Hidden Work of Content](https://alistapart.com/article/the-hidden-work-of-content/) by Caroline Roberts
 
 ### Text Writing
 * [Writing for Designers](https://alistapart.com/article/writing-for-designers-excerpt/) by Scott Kubie

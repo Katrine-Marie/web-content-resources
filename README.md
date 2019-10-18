@@ -14,13 +14,20 @@ Anything from content planning and content strategy, to how you properly integra
 ## Content Strategy and Information Architecture
 * [Aligning Content Work with Agile Processes](https://alistapart.com/article/aligning-content-work-with-agile-processes/) by Brendan Murray
 * [Help! We (Think We) Need to Hire a Content Strategist](https://alistapart.com/article/help-we-think-we-need-to-hire-a-content-strategist/) by Jennifer Bassett
+* [Approaching Content Strategy for Personalized Websites](https://alistapart.com/article/approaching-content-strategy-for-personalized-websites/) by Colin Eagan
+* [Reclaiming Social: Content Strategy for Social Media](https://alistapart.com/article/reclaiming-social-content-strategy-for-social-media/) by Ida Aalen, Ida Jackson
 * [A Contentmas Epiphany](https://24ways.org/2010/a-contentmas-epiphany/) by Relly Annett-Baker
-* [The Untapped Power of Vulnerability & Transparency in Content Strategy](https://alistapart.com/article/the-untapped-power-of-vulnerability-transparency-in-content-strategy/) by Travis McKnight
+
+### Content First Design
+* [Write First: The Craft of Content-first Design](https://medium.com/google-design/write-first-the-craft-of-content-first-design-d9460d567947)
+* [Why you should design the content first for better experiences?](https://uxdesign.cc/why-you-should-design-the-content-first-for-better-experiences-374f4ba1fe3c) by Surya Ravindran Pillai
+* [Content First, Design Second: Prototyping with Words and Adobe XD](https://blog.prototypr.io/content-first-design-second-prototyping-with-words-and-adobe-xd-c4c07cac21ef)
 
 ### Navigation
 
 ## Content Creation
 * [How the Sausage Gets Made: The Hidden Work of Content](https://alistapart.com/article/the-hidden-work-of-content/) by Caroline Roberts
+* [The Untapped Power of Vulnerability & Transparency in Content Strategy](https://alistapart.com/article/the-untapped-power-of-vulnerability-transparency-in-content-strategy/) by Travis McKnight
 
 ### Text Writing
 * [Writing for Designers](https://alistapart.com/article/writing-for-designers-excerpt/) by Scott Kubie

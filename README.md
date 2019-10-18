@@ -21,16 +21,17 @@ Anything from content planning and content strategy, to how you properly integra
 ## SEO
 
 ## Text Writing
-* [Information Literacy is a Design Problem](https://24ways.org/2016/information-literacy-is-a-design-problem/) by Lisa Maria Martin
-* [Cooking Up Effective Technical Writing](https://24ways.org/2015/cooking-up-effective-technical-writing/) by Sally Jenkinson
 * [Writing for Designers](https://alistapart.com/article/writing-for-designers-excerpt/) by Scott Kubie
 * [Write What You Know (Now)](https://alistapart.com/column/write-what-you-know-now/) by Mark Llobrera
+* [So You Want To Write An Article](https://alistapart.com/article/so-you-want-to-write-an-article/) by Brandon Gregory
+* [Cooking Up Effective Technical Writing](https://24ways.org/2015/cooking-up-effective-technical-writing/) by Sally Jenkinson
 * [Order Out of Chaos: Patterns of Organization for Writing on the Job](https://alistapart.com/article/order-out-of-chaos-patterns-of-organization-for-writing-on-the-job/) by Richard Rabil, Jr.
 
 ## Audio / video
 * [How to Use Audio on the Web](https://24ways.org/2018/how-to-use-audio-on-the-web/) by Ruth John
 
 ## Content-related Issues
+* [Information Literacy is a Design Problem](https://24ways.org/2016/information-literacy-is-a-design-problem/) by Lisa Maria Martin
 * [Adapting Ourselves to Adaptive Design](https://www.slideshare.net/KMcGrane/adapting-ourselves-to-adaptive-content-12133365) by Karen McGrane
 * [Ghosts on the Internet](https://24ways.org/2008/ghosts-on-the-internet/) by Gavin Bell
 * [Going Both Ways (multi-directional content)](https://24ways.org/2011/going-both-ways/) by Jonathan Snook

@@ -24,6 +24,8 @@ Anything from content planning and content strategy, to how you properly integra
 * [Content First, Design Second: Prototyping with Words and Adobe XD](https://blog.prototypr.io/content-first-design-second-prototyping-with-words-and-adobe-xd-c4c07cac21ef)
 
 ### Navigation
+* [UX — The Designer’s Guide To Website Navigation](https://uxplanet.org/designing-navigation-labels-and-breadcrumbs-2a6220bb0cc6) by Aakriti Chugh
+* [10+ Tips to Improve Website Navigation Using UX](https://www.netguru.com/blog/10-ux-tips-to-improve-website-navigation) by Olivia Rya
 
 ## Content Creation
 * [How the Sausage Gets Made: The Hidden Work of Content](https://alistapart.com/article/the-hidden-work-of-content/) by Caroline Roberts

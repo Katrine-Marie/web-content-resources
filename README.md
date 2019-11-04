@@ -29,12 +29,14 @@ Anything from content planning and content strategy, to how you properly integra
 
 ## Content Creation
 * [How the Sausage Gets Made: The Hidden Work of Content](https://alistapart.com/article/the-hidden-work-of-content/) by Caroline Roberts
+* [4 Ways To Improve Your Site's Content](https://www.webdesignerdepot.com/2018/06/4-ways-to-improve-your-sites-content/) by Dominic Jeff
 * [The Untapped Power of Vulnerability & Transparency in Content Strategy](https://alistapart.com/article/the-untapped-power-of-vulnerability-transparency-in-content-strategy/) by Travis McKnight
 
 ### Text Writing
 * [Writing for Designers](https://alistapart.com/article/writing-for-designers-excerpt/) by Scott Kubie
 * [Write What You Know (Now)](https://alistapart.com/column/write-what-you-know-now/) by Mark Llobrera
 * [So You Want To Write An Article](https://alistapart.com/article/so-you-want-to-write-an-article/) by Brandon Gregory
+* [Writing For The Modern Minimalist Website](https://www.webdesignerdepot.com/2018/07/writing-for-the-modern-minimalist-website/) by Dominic Jeff
 * [Cooking Up Effective Technical Writing](https://24ways.org/2015/cooking-up-effective-technical-writing/) by Sally Jenkinson
 * [Order Out of Chaos: Patterns of Organization for Writing on the Job](https://alistapart.com/article/order-out-of-chaos-patterns-of-organization-for-writing-on-the-job/) by Richard Rabil, Jr.
 

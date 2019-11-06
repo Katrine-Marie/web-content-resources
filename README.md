@@ -24,6 +24,7 @@ Anything from content planning and content strategy, to how you properly integra
 * [Write First: The Craft of Content-first Design](https://medium.com/google-design/write-first-the-craft-of-content-first-design-d9460d567947)
 * [Why you should design the content first for better experiences?](https://uxdesign.cc/why-you-should-design-the-content-first-for-better-experiences-374f4ba1fe3c) by Surya Ravindran Pillai
 * [Content First, Design Second: Prototyping with Words and Adobe XD](https://blog.prototypr.io/content-first-design-second-prototyping-with-words-and-adobe-xd-c4c07cac21ef)
+* [Enhancing Website Design With UX Writing](https://www.webdesignerdepot.com/2019/03/enhancing-website-design-with-ux-writing/) by Suzanne Scacca
 
 ### Navigation
 * [UX — The Designer’s Guide To Website Navigation](https://uxplanet.org/designing-navigation-labels-and-breadcrumbs-2a6220bb0cc6) by Aakriti Chugh

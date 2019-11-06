@@ -30,6 +30,7 @@ Anything from content planning and content strategy, to how you properly integra
 ## Content Creation
 * [How the Sausage Gets Made: The Hidden Work of Content](https://alistapart.com/article/the-hidden-work-of-content/) by Caroline Roberts
 * [4 Ways To Improve Your Site's Content](https://www.webdesignerdepot.com/2018/06/4-ways-to-improve-your-sites-content/) by Dominic Jeff
+* [How Long Is the Perfect Blog Post](https://www.webdesignerdepot.com/2018/04/how-long-is-the-perfect-blog-post/) by Dominic Jeff
 * [The Untapped Power of Vulnerability & Transparency in Content Strategy](https://alistapart.com/article/the-untapped-power-of-vulnerability-transparency-in-content-strategy/) by Travis McKnight
 
 ### Text Writing

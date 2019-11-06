@@ -44,8 +44,6 @@ Anything from content planning and content strategy, to how you properly integra
 * [Cooking Up Effective Technical Writing](https://24ways.org/2015/cooking-up-effective-technical-writing/) by Sally Jenkinson
 * [Order Out of Chaos: Patterns of Organization for Writing on the Job](https://alistapart.com/article/order-out-of-chaos-patterns-of-organization-for-writing-on-the-job/) by Richard Rabil, Jr.
 
-### SEO
-
 ### Audio / video
 * [How to Use Audio on the Web](https://24ways.org/2018/how-to-use-audio-on-the-web/) by Ruth John
 

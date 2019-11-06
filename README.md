@@ -15,6 +15,8 @@ Anything from content planning and content strategy, to how you properly integra
 * [Aligning Content Work with Agile Processes](https://alistapart.com/article/aligning-content-work-with-agile-processes/) by Brendan Murray
 * [Help! We (Think We) Need to Hire a Content Strategist](https://alistapart.com/article/help-we-think-we-need-to-hire-a-content-strategist/) by Jennifer Bassett
 * [Approaching Content Strategy for Personalized Websites](https://alistapart.com/article/approaching-content-strategy-for-personalized-websites/) by Colin Eagan
+* [6 Reasons To Adopt a Long-Form Content Strategy](https://www.webdesignerdepot.com/2018/03/6-reasons-to-adopt-a-long-form-content-strateg/) by Ezequiel Bruni
+* [5 Tips for Using Curation as a Content Strategy](https://www.webdesignerdepot.com/2018/11/5-tips-for-using-curation-as-a-content-strategy/) by Ezequiel Bruni
 * [Reclaiming Social: Content Strategy for Social Media](https://alistapart.com/article/reclaiming-social-content-strategy-for-social-media/) by Ida Aalen, Ida Jackson
 * [A Contentmas Epiphany](https://24ways.org/2010/a-contentmas-epiphany/) by Relly Annett-Baker
 

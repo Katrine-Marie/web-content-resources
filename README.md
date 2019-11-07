@@ -47,6 +47,7 @@ Anything from content planning and content strategy, to how you properly integra
 
 ### Audio / video
 * [How to Use Audio on the Web](https://24ways.org/2018/how-to-use-audio-on-the-web/) by Ruth John
+* [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/) at W3C
 
 ## Content-related Issues
 * [Information Literacy is a Design Problem](https://24ways.org/2016/information-literacy-is-a-design-problem/) by Lisa Maria Martin

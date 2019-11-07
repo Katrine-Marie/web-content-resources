@@ -46,6 +46,7 @@ Anything from content planning and content strategy, to how you properly integra
 * [Order Out of Chaos: Patterns of Organization for Writing on the Job](https://alistapart.com/article/order-out-of-chaos-patterns-of-organization-for-writing-on-the-job/) by Richard Rabil, Jr.
 
 ### Audio / video
+* [The 12 Most Engaging Types of Video Content](https://www.singlegrain.com/video-marketing/10-useful-types-of-video-content-viewers-love/) by Eric Siu
 * [How to Use Audio on the Web](https://24ways.org/2018/how-to-use-audio-on-the-web/) by Ruth John
 * [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/) at W3C
 

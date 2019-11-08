@@ -11,6 +11,7 @@ Anything from content planning and content strategy, to how you properly integra
 * [The Construction of Instruction](https://24ways.org/2009/the-construction-of-instruction) by Relly Annett-Baker
 * [Content Templates to the Rescue](https://alistapart.com/article/content-templates-to-the-rescue/) by Erin Kissane
 * [Aligning Content Work with Agile Processes](https://alistapart.com/article/aligning-content-work-with-agile-processes/) by Brendan Murray
+* [Order Out of Chaos: Patterns of Organization for Writing on the Job](https://alistapart.com/article/order-out-of-chaos-patterns-of-organization-for-writing-on-the-job/) by Richard Rabil, Jr.
 
 ## Content Strategy
 * [Help! We (Think We) Need to Hire a Content Strategist](https://alistapart.com/article/help-we-think-we-need-to-hire-a-content-strategist/) by Jennifer Bassett
@@ -34,7 +35,7 @@ Anything from content planning and content strategy, to how you properly integra
 ## Content Creation
 * [How the Sausage Gets Made: The Hidden Work of Content](https://alistapart.com/article/the-hidden-work-of-content/) by Caroline Roberts
 * [4 Ways To Improve Your Site's Content](https://www.webdesignerdepot.com/2018/06/4-ways-to-improve-your-sites-content/) by Dominic Jeff
-* [How Long Is the Perfect Blog Post](https://www.webdesignerdepot.com/2018/04/how-long-is-the-perfect-blog-post/) by Dominic Jeff
+* [7 Ways To Utilize User-Generated Content](https://www.webdesignerdepot.com/2018/12/7-ways-to-utilize-user-generated-content-in-2019/) by Glenn Paquette
 * [The Untapped Power of Vulnerability & Transparency in Content Strategy](https://alistapart.com/article/the-untapped-power-of-vulnerability-transparency-in-content-strategy/) by Travis McKnight
 
 ### Text Writing
@@ -42,8 +43,8 @@ Anything from content planning and content strategy, to how you properly integra
 * [Write What You Know (Now)](https://alistapart.com/column/write-what-you-know-now/) by Mark Llobrera
 * [So You Want To Write An Article](https://alistapart.com/article/so-you-want-to-write-an-article/) by Brandon Gregory
 * [Writing For The Modern Minimalist Website](https://www.webdesignerdepot.com/2018/07/writing-for-the-modern-minimalist-website/) by Dominic Jeff
+* [How Long Is the Perfect Blog Post](https://www.webdesignerdepot.com/2018/04/how-long-is-the-perfect-blog-post/) by Dominic Jeff
 * [Cooking Up Effective Technical Writing](https://24ways.org/2015/cooking-up-effective-technical-writing/) by Sally Jenkinson
-* [Order Out of Chaos: Patterns of Organization for Writing on the Job](https://alistapart.com/article/order-out-of-chaos-patterns-of-organization-for-writing-on-the-job/) by Richard Rabil, Jr.
 
 ### Audio / video
 * [The 12 Most Engaging Types of Video Content](https://www.singlegrain.com/video-marketing/10-useful-types-of-video-content-viewers-love/) by Eric Siu

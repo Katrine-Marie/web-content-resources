@@ -31,6 +31,7 @@ Anything from content planning and content strategy, to how you properly integra
 ### Navigation
 * [UX — The Designer’s Guide To Website Navigation](https://uxplanet.org/designing-navigation-labels-and-breadcrumbs-2a6220bb0cc6) by Aakriti Chugh
 * [10+ Tips to Improve Website Navigation Using UX](https://www.netguru.com/blog/10-ux-tips-to-improve-website-navigation) by Olivia Rya
+* [Website navigation design: What you need to know](https://www.invisionapp.com/inside-design/website-navigation-design/) by Tony Ho Tran
 
 ## Content Creation
 * [How the Sausage Gets Made: The Hidden Work of Content](https://alistapart.com/article/the-hidden-work-of-content/) by Caroline Roberts
